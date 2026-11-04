@@ -54,15 +54,10 @@ These are descriptive findings from this dataset and should not be interpreted a
 ```text
 customer-behavior-analysis/
 ├── data/
-│   └── customer_shopping_behavior.csv
 ├── sql/
-│   └── customer_behavior_analysis.sql
 ├── power_bi/
-│   └── customer_behavior_dashboard.pbix
-├── 
-|── business_problem_document.pdf
-|── customer_shopping_behavior_analysis.pdf
-└── README.md
+├── reports/
+|__ README.md
 ```
 
 ## Business recommendations in the report
